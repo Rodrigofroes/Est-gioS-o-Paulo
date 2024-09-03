@@ -1,0 +1,124 @@
+{
+    "faturamentoMensal": [
+        {
+            "data": "2024-09-01",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-02",
+            "faturamento": 1500.75
+        },
+        {
+            "data": "2024-09-03",
+            "faturamento": 1230.50
+        },
+        {
+            "data": "2024-09-04",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-05",
+            "faturamento": 1850.90
+        },
+        {
+            "data": "2024-09-06",
+            "faturamento": 1120.30
+        },
+        {
+            "data": "2024-09-07",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-08",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-09",
+            "faturamento": 1780.65
+        },
+        {
+            "data": "2024-09-10",
+            "faturamento": 1695.40
+        },
+        {
+            "data": "2024-09-11",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-12",
+            "faturamento": 1400.00
+        },
+        {
+            "data": "2024-09-13",
+            "faturamento": 950.20
+        },
+        {
+            "data": "2024-09-14",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-15",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-16",
+            "faturamento": 1200.85
+        },
+        {
+            "data": "2024-09-17",
+            "faturamento": 2000.00
+        },
+        {
+            "data": "2024-09-18",
+            "faturamento": 1100.75
+        },
+        {
+            "data": "2024-09-19",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-20",
+            "faturamento": 1750.40
+        },
+        {
+            "data": "2024-09-21",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-22",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-23",
+            "faturamento": 1450.90
+        },
+        {
+            "data": "2024-09-24",
+            "faturamento": 1650.35
+        },
+        {
+            "data": "2024-09-25",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-26",
+            "faturamento": 2100.00
+        },
+        {
+            "data": "2024-09-27",
+            "faturamento": 1350.60
+        },
+        {
+            "data": "2024-09-28",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-29",
+            "faturamento": 0
+        },
+        {
+            "data": "2024-09-30",
+            "faturamento": 1800.75
+        }
+    ]
+}
